@@ -1,0 +1,9 @@
+.card-footer span {
+  background-color: #ddd;
+  font-size: 9px;
+  display: inline-block;
+}
+
+#movie-class {
+  border: 1px solid #ddd;
+}
